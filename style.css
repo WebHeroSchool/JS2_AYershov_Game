@@ -1,0 +1,19 @@
+.runTest {
+  font-weight: bold;
+}
+
+.previous-button,
+.next-button,
+.runTest {
+  font-size: 16px;
+  color: #000;
+  text-decoration: none;
+  opacity: .5s;
+  margin-right: 20px;
+}
+
+.previous-button:hover,
+.next-button:hover,
+.runTest:hover {
+  opacity: .5;
+}
